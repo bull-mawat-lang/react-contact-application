@@ -6,5 +6,5 @@
 
 Happy codding
 
-#### Contact card
+#### Contact card...
 ![](https://github.com/bull-mawat-lang/react-contact-application/blob/master/public/images/contact.png)
