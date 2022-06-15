@@ -6,7 +6,7 @@
 
 Happy codding
 
-## Contact card...
+## Contact card Screenshots...
 
 #### Favorit contacts
 ![](https://github.com/bull-mawat-lang/react-contact-application/blob/main/public/images/contact-flipped.png)
