@@ -1,13 +1,13 @@
 import React, {useState} from 'react'
 import Star from './Star'
-const user='user3.png'
+const user='user5.png'
 const Contact = () => {
 
   const [contact, setContact]=useState({
-    firstName: "Janci",
-    lastName: "Von Neuman",
+    firstName: "Bianca",
+    lastName: "Alex",
     phone: "+1 (719) 555-1212",
-    email: "jancivon@gmail.com",
+    email: "vianca@gmail.com",
     isFav: false
   })
 

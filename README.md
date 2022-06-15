@@ -6,9 +6,16 @@
 
 Happy codding
 
-#### Contact card...
+## Contact card...
 
+#### Favorit contacts
+![](https://github.com/bull-mawat-lang/react-contact-application/blob/main/public/images/contact-flipped.png)
+
+
+
+#### Other contacts
 ![](https://github.com/bull-mawat-lang/react-contact-application/blob/main/public/images/contact.png)
 
-### Favorit contact
-![](https://github.com/bull-mawat-lang/react-contact-application/blob/main/public/images/contact-flipped.png)
+![](https://github.com/bull-mawat-lang/react-contact-application/blob/main/public/images/contact-ba.png)
+
+
